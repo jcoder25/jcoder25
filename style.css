@@ -1,0 +1,164 @@
+
+#navbar1 ul
+{
+    display: flex;
+    background-color: black;
+    /* <--opacity: 0.4; --> */
+    height: 53px;
+}
+#navbar1 ul li
+{
+    height: 10px;
+    background-color: black;
+    font-size: 15px;
+    font-family: 'Rubik', sans-serif;
+    color: whitesmoke;
+    padding: 8px;
+    display: flex;
+}
+#image1 img
+{
+    display: flex;
+    margin-left: 550px;
+  
+}
+#image2 img
+{
+    display: flex;
+    margin-left: 30px;
+  
+}
+#image3 img
+{
+    display: flex;
+    margin-left: 40px;
+  
+}
+#image4 img
+{
+    display: flex;
+    margin-left: 36px;
+    margin-top: 3px;
+  
+}
+#navbar2 ul{
+    background: rgb(236, 229, 229);
+    
+    display: flex;
+}
+#navbar2 ul li{
+    display: flex;
+    padding: 20px;  
+}
+#navbar2 ul li a{
+    color: #000000;
+    font-size: 15px;
+    font-family:  'Merriweather Sans', sans-serif;
+    display: flex;
+    text-decoration: none;  
+}
+.death {
+    color: red;
+}
+#navbar2 ul li a:hover{
+        border-radius: 10px;
+        background-color: rgb(218, 15, 42); 
+}
+#navbar2 ul li.active a{
+    background-color:aqua ;
+}
+#card{
+    margin: 10px 10px;
+}
+#corona ul{
+    display: flex;
+    margin-left: 2px;
+    margin-top: 30px;
+    font-size: 60px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+#corona ul li{
+    display: flex;
+    text-decoration: none;
+}
+.color1{
+    color: black;
+}
+.color2{
+    color: red;
+}
+#para{
+    margin-left: 26px;
+}
+#some h5{
+    font-size: 60px;
+    margin: 10px 50px ;
+}
+#footer
+{
+    color: whitesmoke;
+    background-color: #20313b;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+    height: 50px;
+
+}
+#footer ul
+{
+    display: flex;
+
+}
+#footer ul li
+{
+    
+    display: flex;
+    text-decoration: none;
+
+}
+
+#foot
+{
+    display: flex;
+    margin-left: 20px;
+    color: whitesmoke;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+}
+#footS
+{
+    display: flex;
+    margin-left: 20px;
+    color: whitesmoke;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+}
+#checking ul {
+     display: flex;
+    
+}
+#checking ul li{
+    font-size: 200px;
+    text-decoration: none;
+    display: flex;
+    
+}
+#checking ul li h5{
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: #71c21b;
+    background: rgb(236, 229, 229);
+    
+}
+#checking ul li p{
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: black;
+}
+
+#firstHeading{
+    margin-top: 70px;
+}
+#feel{
+
+    margin-left: 20px;
+}
