@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python , Android Studio , UI/Ux ,Java , Frontend and Backend .
 - 💞️ I’m looking to collaborate on Big Projects .
 - 📫 How to reach me - Email Id - jashanjindal25@gmail.com
+- 
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 jcoder25/jcoder25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
